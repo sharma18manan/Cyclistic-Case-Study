@@ -70,14 +70,13 @@ https://public.tableau.com/views/CyclisticBikeShareAnalysis_17739178366630/Dashb
 ## Project Structure
 Cyclistic-Case-Study/
 │
-├── data/
-│ ├── raw/
-│ └── cleaned/
+├── Data/
+│ └── Cleaned/
 │
-├── notebooks/
-├── sql/
-├── dashboard/
-├── report/
+├── Notebooks/
+├── SQL/
+├── Dashboard/
+├── Report/
 └── README.md
 
 ---
