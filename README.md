@@ -61,6 +61,9 @@ Raw CSV → Python Cleaning → Feature Engineering → SQL Validation → Table
 ## Interactive Dashboard
 https://public.tableau.com/views/CyclisticBikeShareAnalysis_17739178366630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard/cyclistic_dashboard.png)
+
 
 ---
 
