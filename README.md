@@ -11,6 +11,9 @@ This analysis answers:
 
 > **How do annual members and casual riders use Cyclistic bikes differently?**
 
+## Business Impact
+This analysis identifies high-potential casual riders and provides targeted strategies to improve membership conversion and long-term revenue.
+
 ---
 
 ## Tools & Technologies
